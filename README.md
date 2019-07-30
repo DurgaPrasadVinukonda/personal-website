@@ -18,6 +18,8 @@ Once you've found a home for your forked repository, it's yours. You're the owne
 
 ### Install in your local development environment
 
+> For Windows users, you can install Ruby and its development environment using Chocolatey. See [Basic Tools for Web Development ](https://denisecase.github.io/basic-tools-for-webdev/).
+
 If you want to manage your website in a local web development environment, you'll be using [Ruby](https://jekyllrb.com/docs/installation/).
 
 Once you've found a home for your forked repository, **[clone it](https://help.github.com/articles/cloning-a-repository/)**.
